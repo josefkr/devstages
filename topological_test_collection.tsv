@@ -1,0 +1,451 @@
+Sentence	SID	Coarse	VVF	VF	LSK	MF	RSK	NF	comment
+Dürften preislich so um die 70-100€/Stück liegen und das ist allemal billiger als die alten reparieren zu lassen.	102	NONE			als	die alten	reparieren zu lassen		Non-finite
+Ich bin zu müde, als dass es mir noch was ausmachen würde	167	VEND			als dass	es mir noch was	ausmachen würde		
+Spielen bedeutet für Kinder Arbeit.	301	SVO		Spielen	bedeutet	für Kinder Arbeit			
+Er begann sich die Hände am Feuer zu wärmen.	113b	OTHER		Er	begann			sich die Hände am  Feuer zu wärmen	Non-finite complement clause
+Der vor dem Amtsgericht Hamburg in Anspruch genommene Anschlussinhaber hatte seine eigene Verantwortlichkeit für die Rechtsverletzung in Abrede gestellt und behauptete, dass die Rechtsverletzung gegebenenfalls durch unbefugte Dritte begangen worden sein könnte.	73	NONE			behauptete			 dass die Rechtsverletzung gegebenenfalls durch unbefugte Dritte begangen worden sein könnte	complementizer not local
+Ebenso bekommt der Konsument sein Fett ab, den er zum Schnäppchenjäger, mithin zum Konsumidioten degeneriert sieht.	104	INV		Ebenso	bekommt	der Konsument sein Fett	ab	den er zum Schnäppchenjäger, mithin zum Konsumidioten degeneriert sieht.	ab is a verb particle, for PT not a case of SEP
+Weg bekommt man sie nur, wenn man zuvor ihre Ursachen beseitigt hat	344	INV		Weg	bekommt	man  sie nur , wenn  man zuvor ihre Ursachen beseitigt hat			wegbekommen hat einen Eintrag im Duden
+Dem Vorstand bereitet es sichtlich Mühe, die Gewinne halbwegs zu verstecken.	63	INV		Dem Vorstand	bereitet	es sicherlich Mühe		die Gewinne halbwegs zu verstecken	
+Ich trinke noch ein Bier denn du bestellst ja noch einen Wein.	180	SVO	denn	du	bestellst	ja noch einen Wein			
+Geht ein Mann in eine Kneipe und bestellt sich ein Bier.	148	NONE	und		bestellt	sich ein Bier			Non-local subject
+Bevor sie überwältigt werden können, gelingt es ihnen, die Sicherheitsschaltung A-1 auf unbekannte Weise zu manipulieren.	33	VEND			bevor	sie	überwältigt werden können		
+Ich bin zu müde, als dass es mir noch was ausmachen würde	166	NONE		Ich	bin	zu müde		als dass es mir noch was ausmachen würde	copular clause
+Trainieren können Sie überall, gesund dabei bleiben Sie bei Claudia Frohberger!	307	NONE		gesund dabei	bleiben	Sie bei Claudia Frohberger			copular clause
+Susanne blieb noch eine Stunde sitzen.	303	OTHER		Susanne	blieb	noch eine Stunde	sitzen		sitzen+bleiben is either a compound verb or it involves bleiben as a copula; in any case it‘s not SEP
+Brauche drindend Tipps zum Kauf dieser Stiefel.	39	NONE			Brauche	dringend Tipps zum Kauf dieser Stiefel			SVO only if  one recognizes phonetically empty arguments
+Nun, da klar sei, dass diese Verluste mache, will der Bund die Verluste zur Hälfte auf die Länder verlagern.	256	VEND			da	klar	sei	dass diese Verluste mache	subject of subordinate clause is extraposed to NF
+Damit das gleich klar ist: Mit "Kokser" ist auf keinen Fall Benjamini von Stuckrad-Barre gemeint.	40	VEND			damit	das gleich klar	ist		
+Damit schnell geholfen werden kann , werden häufig Defibrillatoren angeschafft.	42	VEND			Damit	schnell	geholfen werden kann		
+Bremens Lehrer müssen Landeslehrer werden , damit sie problemlos zwischen Bremen und Bremerhaven versetzt werden können .	431	VEND			damit	sie problemlos zwischen Bremen und Bremerhaven	versetzt werden können		
+Aber den Hund, den darf ich mitbringen zu euch?	2	INV, SEP	Aber den Hund	den	darf	ich	mitbringen	zu euch	
+Darf ich fragen wie du heißt?	46	SEP			darf	ich	fragen	wie du heißt	
+Er darf sitzen bleiben.	115	OTHER		Er	darf		sitzen bleiben		MF empty, therefore not SEP
+Mitbringen darf man ihn doch wohl, den Hund.	245	OTHER		mitbringen	darf	man ihn doch wohl		den Hund	part of verb cluster in VF
+Darfst aber auch nicht vergessen, dass Essen 3 x so groß wie Saarbrücken ist und das Land NRW 17 x so viele Einwohner wie das Saarland hat.	47	SEP			Darfst	aber auch nicht	vergessen	dass Essen 3 x so groß wie Saarbrücken ist und das Land NRW 17 x so viele Einwohner wie das Saarland hat.	
+Darfst aber auch nicht vergessen, dass Essen 3 x so groß wie Saarbrücken ist und das Land NRW 17 x so viele Einwohner wie das Saarland hat.	48	VEND			dass	Essen 3 x so groß wie Saarbrücken	ist		
+Das liegt wohl daran, dass die Fundamente und Bauweisen der Kraftwerke bis 8.25-Skala ausgelegt gewesen sein sollen.	54	VEND			dass	die Fundamente und Bauweisen der Kraftwerke bis 8.25-Skala	ausgelegt gewesen sein sollen		
+Dass er ihn unterstützt hat, hat sein Vater nie bereut.	55	VEND			dass	er ihn	unterstützt hat		
+Dass er nicht zu Hause sein würde, wußten alle.	57	VEND			Dass	er nicht zu Hause	sein würde		
+Dass Perot ein Unternehmen erfolgreich leiten kann, davon sind selbst seine Kritiker überzeugt.	60	VEND			Dass	Perot ein Unternehmen erfolgreich	leiten kann		
+Dass sie ihm helfen würde , hat sie ihm nur ungern zugesagt.	62	VEND			Dass	sie ihm	helfen würde		
+Der vor dem Amtsgericht Hamburg in Anspruch genommene Anschlussinhaber hatte seine eigene Verantwortlichkeit für die Rechtsverletzung in Abrede gestellt und behauptete, dass die Rechtsverletzung gegebenenfalls durch unbefugte Dritte begangen worden sein könnte.	74	VEND			dass	die Rechtsverletzung gegebenenfalls durch unbefugte Dritte	begangen worden sein könnte		
+Die Polizei sagt, dass er sie hat singen hören.	87	VEND			dass	er sie	hat singen hören		
+Die Polizei sagt, dass er sie singen gehört hat.	89	VEND			dass	er sie	singen gehört hat		
+Er sagte, dass er zu kommen wünsche.	122	VEND			dass	er zu kommen	wünsche		
+Es erstaunt mich, dass er die Analyse hat verstehen wollen.	127	VEND			dass	er die Analyse	hat verstehen wollen		
+Es wundert mich nicht, dass er sie gesehen haben will.	137	VEND			dass	er sie	gesehen haben will		
+Es wundert mich nicht, dass er sie will gesehen haben.	139	VEND			dass	er sie	will gesehen haben		
+Ich habe Dir versprochen und dem Max, dass wir wandern gehen.	170	VEND			dass	wir	wandern gehen		
+Ich wusste nicht, dass er mich heute um 12 Uhr abholt.	185	VEND			dass	er mich heute um 12 Uhr	abholt		
+Ich wusste nicht, dass sie den Wagen hat reparieren lassen.	187	VEND			dass	sie den Wagen	hat reparieren lassen		
+Interessant ist auch, dass in der heutigen Zeit kaum noch pflanzliche Lebensmittel Vitamin B12 enthalten.	198	VEND			dass	in der heutigen Zeit kaum noch pflanzliche Lebensmittel Vitamin B12	enthalten		
+Kann es sein dass dein Malz sehr schlecht geschrotet wurde.	213	VEND			dass	dein Malz sehr schlecht	geschrotet wurde		
+Macht man gewisse Information öffentlich zugänglich, kann es sein , dass das ungeahnte Ausmaße annimmt.	232	VEND			dass	das  ungeahnte Ausmaße	annimmt		
+Maria meinte, dass er den Wagen hat reparieren lassen.	235	VEND			dass	er den Wagen	hat reparieren lassen		
+Maria meinte, dass er den Wagen reparieren gelassen hat.	237	VEND			dass	er den Wagen	reparieren gelassen hat		
+Nun, da klar sei, dass diese Verluste mache, will der Bund die Verluste zur Hälfte auf die Länder verlagern.	257	VEND			dass	diese Verluste	mache		
+Sie sagte, dass sie ihn hat zu vergessen versucht.	284	VEND			dass	sie ihn	hat zu vergessen versucht		
+Sie meinte, dass sie ihn zu vergessen nie versucht hat.	286	VEND			dass	sie ihn zu vergessen nie	versucht hat		
+Sie schwor, dass sie ihn zu vergessen versucht hat.	288	VEND			dass	sie ihn zu vergessen	versucht hat		
+Warum hören viele nicht, dass sie falsch singen?	336	VEND			dass	sie falsch	singen		
+Dass es im Schuh durch die doppelte Sockenschicht etwas enger war, daran hatte ich mich auch gewöhnt.	392	VEND			dass	es im Schuh durch die doppelte Sockenschicht etwas enger	war		
+Es sei daran erinnert , dass in den vergangenen Jahren Vizepräsident Mike Pence am Marsch teilgenommen hat.	133B	VEND			dass	in den vergangenen Jahren Vizepräsident Mike Pence am Marsch	teilgenommen hat		
+Mir gefällt, dass richtig Winter ist.	241b	VEND			dass	richtig Winter	ist		
+Das tolle daran war dass wir bereits früh morgens in Frankfurt losfliegen konnten.	390B	VEND			dass	wir bereits früh morgens in Frankfurt	losfliegen konnten		
+Alle haben geglaubt, dass die Hoffenheimer Herbstmeister werden.	6B	OTHER			dass	die Hoffenheimer Herbstmeister	werden		clausal object
+Vera war ganz zittrig, nachdem sie jetzt gehört hatte, daß ich hatte beatmet werden müssen.	327	VEND			daß	ich	hatte beatmet werden müssen		
+Denn obwohl Walter bereits seit 2017 bei den Gründungsstadtwerken in Betrieb ist und an Kunden der Wohnungswirtschaft erfolgreich vermarket wird, dauerte die Gründung der Gesellschaft 14 Monate.	67	INV	Denn	obwohl Walter bereits seit 2017 bei den Gründungsstadtwerken in Betrieb ist und an Kunden der Wohnungswirtschaft erfolgreich vermarket wird	dauerte	die Gründung der Gesellschaft 14 Monate			
+Und zweitens dürfte die schiere Summe zu mehr Nachfrage führen.	321	INV, SEP	Und	zweitens	dürfte	die schiere Summe zu  mehr Nachfrage	führen		
+Anfassen durften die Kinder dann von der Jacke und Hose bis zum Helm.	19	OTHER		Anfassen	durften	die Kinder dann von derJacke und Hose bis zum Helm			verb cluster moved into VF doesn‘t count as INV 
+Dürften preislich so um die 70-100€/Stück liegen und das ist allemal billiger als die alten reparieren zu lassen.	100	SEP			Dürften	preislich so um die 70-100€/Stück 	liegen		
+Umgestellt worden sein dürften davon ungefähr 80 Prozent.	314	OTHER		Umgestellt worden sein	dürften	davon ungefähr 80 Prozent			part of verb cluster in VF
+Entgegen vieler Gerüchte und Mythen enthält tiefgefrorener Fisch genauso viele oder sogar mehr Nährstoffe wie frischer Fisch.	113	INV		Entgegen vieler Gerüchte und Mythen 	enthält	tiefgefrorener Fisch genauso viele oder sogar mehr Nährstoffe wie frischer Fisch			
+Zusätzlich zu den Omega 3-Fettsäuren enthält Fisch eine Menge anderer Vitamine und Spurenelemente.	386	INV		Zusätzlich zu den Omega 3-Fettsäuren	enthält	Fisch eine Menge anderer Vitaminie und Spurenelemente			
+Beziehungsgeflechte werden sich offenbaren oder zerbrechen und neue Strukturen und Ordnungen entstehen	38	OTHER	und	neue Strukturen und Ordnungen	entstehen				intransitive
+Erfassen und recherchieren Sie jetzt noch schneller die Nachrichtenlage.	123	NONE			Erfassen				object is non-local
+Es erstaunt mich, dass er die Analyse hat verstehen wollen.	128	OTHER		Es	erstaunt	mich		dass er die Analyse hat verstehen wollen	clausal subject
+Auf der einen Seite kommen und fahren Autos, Busse und Bahnen, auf der anderen starten und landen Flugzeuge	27	NONE	und		fahren	Autos, Busse und Bahnen			
+Das fällt schon deshalb schwer, weil fast die Hälfte der Bevölkerung unter dem Existenzminimum lebt.	51	SVO		Das	fällt	schon deshalb schwer		weil fast die Hälfte der Bevölkerung unter dem Existenzminimum lebt	obligatory secondary predicative
+Kommst du nicht, so fang ich dich.	225	INV	Kommst du nicht	so	fang	ich dich			
+Am besten wir fangen mit Peter an.	418	SVO	Am besten	wir	fangen	mit Peter	an		particle in RSK doesn‘t count for PT , thus not SEP
+Dessen Bedeutung hat die einschlägige Forschung zwar hervorgehoben, dennoch fehlte bislang eine umfassende Würdigung.	76	INV		dennoch	fehlte	bislang eine umfassende Würdigung			
+Ich frage mich, wer da immer klopft.	168a	SVO		Ich	frage	mich		wer da immer klopft	
+Er fragte, ob ich noch ein Bier trinke und ich dann gehe.	116	OTHER		Er	fragte			ob ich noch ein Bier trinke und ich dann gehe.	clausal object
+Besucht uns im Onlineshop und im Ladenverkauf , wir freuen uns auf euch !	428	SVO		wir	freuen	uns auf euch.			
+Seiner Mutter zuliebe fuhr er mit dem Rad.	275	INV		Seiner Mutter zuliebe	fuhr	er mit dem Rad			
+Sollen wir nun, fuhr jener fort, wenn wir es können, bestimmen, welcherlei diese sind?	294	NONE			fuhr	jener	fort		parenthetical clause
+Hans hat – fürchte ich – uns das in seiner Voreiligkeit eingebrockt.	156	NONE			fürchte	ich			parenthetical clause
+Diesen Kater , den fütterst du besser nicht.	95	INV	Diesen Kater	den	fütterst	du besser nicht			
+Mir gefällt, dass richtig Winter ist.	241	OTHER		Mir	gefällt			dass richtig Winter ist	only one post-verbal  element
+Ich trinke noch ein Bier und dann gehe ich.	182	OTHER	und	dann	gehe	ich			
+Obwohl es regnet, wir gehen wandern.	260	OTHER	Obwohl es regnet	wir	gehen		wandern		MF empty, therefore not SEP
+Geht ein Mann in eine Kneipe und bestellt sich ein Bier.	147	OTHER			geht	ein Mann in eine Kneipe			narrative VSA
+Bevor sie überwältigt werden können, gelingt es ihnen, die Sicherheitsschaltung A-1 auf unbekannte Weise zu manipulieren.	34	INV		Bevor sie überwältigt werden können	gelingt	es ihnen		die Sicherheitsschaltung A-1 auf unbekannte Weise zu manipulieren	
+Wer mehr Klicks bekommt – gewinnt.	356	V1-imp		Wer mehr Klicks bekommt	gewinnt				
+Also in der Stadt Roth gibt es glaub ich ein oder zwei Internet Cafes.	15	OTHER		Also in der Stadt Roth	gibt	es ein oder zwei Internet Cafes			
+Laut Bundesinstitut gibt es, Stand Ende Mai, knapp 500 Lieferengpässe.	229	OTHER		Laut Bundesinstitut	gibt	es Stand Ende Mai knapp 500 Lieferengpässe			existential construction
+Seltsamerweise unbemerkt von den Wachen ging er direkt zu dem Porträt hinter dem Tribunal, goß Kerosin darüber und zündete es an.	279	INV		Seltsamerweise unbemerkt von den Wachen 	ging	er direkt zu dem Porträt hinter dem Tribunal			
+Also in der Stadt Roth gibt es glaub ich ein oder zwei Internet Cafes.	16	NONE			glaub	ich			parenthetical clause
+Muss man nicht und ich glaube auch man könnte es nicht.	249	OTHER		ich	glaube	auch		man könnte es nicht	clausal object
+Solltest Du dann auf einmal kalte Füße bekommen, dann gnade Dir Gott.	300	INV	Solltest Du dann auf einmal kalte Füße bekommen	dann	gnade	dir Gott			
+Seltsamerweise unbemerkt von den Wachen ging er direkt zu dem Porträt hinter dem Tribunal, goß Kerosin darüber und zündete es an.	280	NONE			goß	Kerosin darüber			non-local subject
+Hab ich ihr doch ganz frech einen Kuss gegeben.	421	SEP			Hab	ich ihr doch ganz frech einen Kuss	gegeben		no INV since VF empty
+Hunger habe ich noch keinen.	165	INV		Hunger	habe	ich noch keinen			
+Ich habe Dir versprochen und dem Max, dass wir wandern gehen.	169	SEP		ich	habe	Dir	versprochen	und dem Max, dass wir wandern gehen	
+Ich habe gebeten, bleiben zu dürfen.	171	OTHER		Ich	habe		gebeten	bleiben zu dürfen	MF empty, therefore not SEP
+Ich habe Hans ausgewechselt,  weil er heute nicht so gut spielt wie Tom.	174	SEP, SVO		Ich	habe	Hans	ausgewechselt	weil er heute nicht so gut spielt wie Tom.	
+Ich habe ihn in der Küche singen gehört.	175	SEP, SVO		Ich	habe	ihn in der Küche	singen gehört		
+Ich habe ihn in der Küche singen hören.	176	SEP, SVO		Ich	habe	ihn in der Küche	singen hören		
+Ich habe sie doch gefragt, heute , die Kinder, ob wir gemeinsam kochen wollen.	178	SEP, SVO		Ich	habe	sie doch	gefragt	 heute , die Kinder, ob wir gemeinsam kochen wollen	
+Genau daran habe ich auch geacht	391	INV, SEP		Genau daran	habe	ich auch	gedacht		
+Alle haben geglaubt, dass die Hoffenheimer Herbstmeister werden.	6	OTHER		Alle	haben		geglaubt	dass die Hoffenheimer Herbstmeister werden	clausal object
+Als seine Nachkommen haben wir uns vorgenommen es weiter mit Leben zu füllen.	13	INV, SEP		Als seine Nachkommen	haben	wir uns	vorgenommen	es weiter mit Leben zu füllen	
+Den Handtaschenraub haben sie bereits gestanden	434	INV		Den Handtaschenraub	haben	sie bereits	gestanden		
+Die haben was geahnt.	436	SEP, SVO		Die	haben	was	geahnt.		
+Selbst wenn alle Stricke reißen, so halten wir erst recht zu dir.	278	INV	Selbst wenn alle Stricke reißen	so	halten	wir erst recht zu dir			
+Sie halten ihn für einen guten Kandidaten	282	SVO		Sie	halten	ihn für einen guten Kandidaten			
+Seiner historischen Bedeutung entsprechend hängt das dem Stadtmuseum gehörende Gemälde im Jan-Wellem-Saal des Düsseldorfer Rathauses.	274	INV		Seiner historischen Bedeutung entsprechend	hängt	das dem Stadtmuseum gehörende Gemälde im Jan-Wellem-Saal des Düsseldorfer Rathauses.			
+Du Schussel, jetzt hast du die Milch überkochen lassen.	99	INV, SEP	Du Schussel	jetzt	hast	du die Milch	überkochen lassen		
+Hast du dir denn nicht die Hände am Feuer aufgewärmt?	159	SEP			Hast	du dir denn nicht die Hände am Feuer 	aufgewärmt		
+Dann hat da noch gespielt die Cellistin, die letztes Jahr alle Nachwuchspreise gewonnen hat.	44	INV, SEP		Dann	hat	da noch	gespielt	die Cellistin, die letztes Jahr alle Nachwuchspreise gewonnen hat	note exceptional subject in NF
+Dass er ihn unterstützt hat, hat sein Vater nie bereut.	56	INV, SEP		dass er ihn unterstützt hat	hat	sein Vater nie	bereut		
+Dass sie ihm helfen würde , hat sie ihm nur ungern zugesagt.	61	INV, SEP		Dass sie ihm helfen würde	hat	sie ihm  nur ungern	zugesagt		
+Dessen Bedeutung hat die einschlägige Forschung zwar hervorgehoben, dennoch fehlte bislang eine umfassende Würdigung.	75	INV, SEP		Dessen Bedeutung	hat	die einschlägige Forschung zwar	hervorgehoben		
+Er hat mich um 12 Uhr abgeholt heute.	119	SEP, SVO		Er	hat	mich um 12 Uhr	abgeholt	heute	
+Es hat das auch früher schon gegeben.	129	OTHER		Es	hat	das auch schon früher	gegeben		existential construction
+Hans hat – fürchte ich – uns das in seiner Voreiligkeit eingebrockt.	155	SEP, SEP		Hans	hat	uns das in seiner Voreiligkeit	eingebrockt		
+Hat es das unbedingt gebraucht, ein viertes Mobilfunknetz?	160	OTHER			hat	es das unbedingt	gebraucht	ein viertes Mobilfunktnetz	
+Ihn unterstützt zu haben hat sein Vater nie bereut.	194	INV, SEP		Ihn unterstützt zu haben	hat	sein Vater nie	bereut		
+Petra hat es in ihrem Beruf weit gebracht.	261	SEP, SVO		Petra	hat	es in ihremm Beruf weit	gebracht		
+Sein Vater hat es nie bereut, ihn unterstützt zu haben.	271	SEP, SVO		Sein Vater	hat	es nie	bereut	ihn unterstützt zu haben	
+Und er hat was gesagt?	320	SEP, SVO	Und	er	hat	was	gesagt		
+Wann hat es je so viel geschneit?	331	INV, SEP		Wann	hat	es je so viel	geschneit		
+Wer hat es sich gewünscht ?	353	OTHER		wer	hat	es sich	gewünscht		subject questions are a special sub-category of SVO
+Da hat wer geklingelt .	432	SEP, INV		Da	hat	wer	geklingelt		
+Es hat was gebracht.	441	SEP,SVO		es	hat	was	gebracht		
+Der vor dem Amtsgericht Hamburg in Anspruch genommene Anschlussinhaber hatte seine eigene Verantwortlichkeit für die Rechtsverletzung in Abrede gestellt und behauptete, dass die Rechtsverletzung gegebenenfalls durch unbefugte Dritte begangen worden sein könnte.	72	SEP, SVO		Der vor dem Amtsgericht Hamburg in Anspruch genommene Anschlussinhaber	hatte	seine eigene Verantwortlichkeit für die Rechtsverletzung in Abrede 	gestellt		
+Kaum hatte sie sich umgedreht, stand Merkur vor ihr	221	INV, SEP		Kaum	hatte	sie sich	umgedreht		
+Dass es im Schuh durch die doppelte Sockenschicht etwas enger war, daran hatte ich mich auch gewöhnt.	392B	INV, SEP	Dass es im Schuh durch die doppelte Sockenschicht etwas enger war	daran	hatte	ich mich auch	gewöhnt		
+Es hätte an dieser Stelle noch nicht zu Ende sein müssen.	130	SEP		Es	hätte	an dieser Stelle noch nicht zu Ende	sein müssen		
+An welche Adresse hatten Sie denn nachgeschickt?	18	INV, SEP		An welche Adresse	hatten	Sie denn	nachgeschickt		
+Hunderte Tote hätten verhindert werden können !	164	OTHER		Hunderte Tote	hätten		verhindert werden können		MF empty, therefore not SEP
+Galaxy Buds Live, so heisst es im Angebot, würde man dazu erhalten.	141	NONE		so	heisst	es im Angebot			parenthetical clause
+Ein Garten, so heißt es, ist ein Ort der Handlung.	110	NONE		so	heißt	es			parenthetical clause
+Geschüttelt, nicht gerührt, so heißt es beim Lieblingsgetränk von James Bond	149	NONE	Geschüttelt, nicht gerührt	so	heißt	es beim Lieblingsgetränk von James Bond			parenthetical clause
+Holst du mich um 12 Uhr ab heute?	163	INV, SEP			Holst	du mich um 12 Uhr	ab	heute	
+Warum hören viele nicht, dass sie falsch singen?	335	INV		Warum	hören	viele nicht		dass sie falsch singen	
+Ab wann ist Fritz zu Hause?	1	OTHER		Ab wann	ist	Fritz zu Hause			
+Beliebt ist Holz sowohl im Bereich von Haus- und Kellertüren als auch in der Rahmengebung großer Terrassenbereiche.	32	NONE		Beliebt	ist	Holz sowohl im Bereich von Haus- und Kellertüren als auch in der Rahmengebung großer Terrassenbereiche			copular clause
+Damit das gleich klar ist: Mit "Kokser" ist auf keinen Fall Benjamini von Stuckrad-Barre gemeint.	41	INV, SEP		Mit „Kokser“	ist	auf keinen Fall Benjamini von Stuckrad-Barre gemeint	gemeint		Example is analyzed as Zustandspassiv rather than copular structure
+Das Brot ist alles schlecht geworden.	50	SEP		Das Brot	ist	alles schlecht	geworden		
+Der 2020 March for Life ist der Höhepunkt einer Woche voller Aktivismus in der Hauptstadt.	68	NONE		Der 2020 March for Life	ist	der Höhepunkt einer Woche voller Aktivismus in der Hauptstadt			copular clause
+Der Schnee ist weggeräumt.	71	OTHER		Der Schnee	ist		weggeräumt		MF empty, therefore not SEP
+Die Ampel - sie ist bei vielen Liberalen auch nach eineinhalb Jahren mäßig populär.	77	NONE	Die Ampel	sie	ist	bei vielen Liberalen auch nach eineinhalb Jahren mäßig populär			copular clause
+Die Linguistin, deren viele Bücher da drüben stehen, ist sehr berühmt.	85	NONE		Die Linguistin, deren viele Bücher da drüben stehen	ist	sehr berühmt			copular clause
+Die Schadenfreude ist dann umso größer, wenn trotz der Anstrengungen ein Würfel über das Ziel hinausschießt oder das Ergebnis drei Einser zeigt.	90	NONE		Die Schadenfreude	ist	dann umso größer		wenn trotz der Anstrengungen ein Würfel über das Ziel hinausschießt oder das Ergebnis drei Einser zeigt.	copular clause
+Doch sie ist lebensgefährlich erkrankt.	98	SEP	Doch	sie	ist	lebensgefährlich	erkrankt		treating erkrankt as particple
+Dürften preislich so um die 70-100€/Stück liegen und das ist allemal billiger als die alten reparieren zu lassen.	101	NONE		das	ist	allemal billiger als die alten reparieren zu lassen			copular clause
+Egal ob Sie mit dem Auto oder mit öffentlichen Verkehrsmitteln anreisen – unser Landgasthof ist schnell und einfach zu erreichen.	106	NONE		unser Landgasthof	ist	schnell und einfach	zu erreichen		copular clause
+Ein Garten, so heißt es, ist ein Ort der Handlung.	109	NONE		Ein Garten	ist	ein Ort der Handlung			copular clause
+Es ist wirklich schwer zu sagen, welche Positionen er einnimmt.	131	NONE		Es	ist	wirklich schwer zu sagen		welche Position er einnimmt	copular clause
+Es wird klar: das Solidaritätskomitee SB ist ein Opfer-Verein.	135	NONE		das Solidaritätskomitee SB	ist	ein Opfer-Verein			copular clause
+Gegeben die Definition von Sprache als das unbeschränkte Schaffen von interpersonal verfügbaren Bedeutungen, also Bedeutungen von Zeichen, so ist der Gegenstand der Sprachwissenschaft eine Art von Zeichen.	146	NONE	Gegeben die Definition von Sprache als das unbeschränkte Schaffen von interpersonal verfügbaren Bedeutungen, also Bedeutungen von Zeichen,	so	ist	der Gegenstand der Sprachwissenschaft eine Art von Zeichen			copular clause
+Hans ist gegangen, weil sein Mantel ist weg.	157	OTHER		Hans	ist		gegangen		MF empty, therefore not SEP
+Hans ist gegangen, weil sein Mantel ist weg.	158	NONE	weil	sein Mantel	ist	weg			copular clause
+Interessant ist auch, dass in der heutigen Zeit kaum noch pflanzliche Lebensmittel Vitamin B12 enthalten.	199	NONE		Interessant	ist	auch		dass in der heutigen Zeit kaum noch pflanzliche Lebensmittel Vitamin B12 enthalten.	copular clause
+Ist dies sichergestellt, stellt sich die Frage, welcherlei Art die Deckenleuchte sein soll	200	OTHER			Ist	dies	sichergestellt		conditional V1 clause
+Je früher, desto besser ist es.	203	NONE	Je früher	desto besser	ist	es			copular clause
+Weg gekommen ist sie erst mit dem Verkauf der Schule	345	OTHER		Weg gekommen	ist	sie erst mit dem Verkauf der Schule			part of verb cluster in VF
+Weg ist alles, was du liebtest, Weg, worum du dich betrübtest.	346	NONE		Weg	ist	alles was du liebtest			copular clause
+Welcher Art ist ihr Unbehagen an der Sache?	350	OTHER		Welcher Art	ist	ihr Unbehagen an der Sache			copular inversion
+Wer ist gestern abgereist?	354	SEP		Wer	ist	gestern	abgereist		
+Will er es und kann es nicht, so ist das ein Unvermögen, was dem Wesen Gottes widerspricht.	367	NONE	Will er es und kann es nicht	so	ist	das ein Unvermögen, was dem Wesen Gottes widerspricht.			copular clause
+Das vom Aus bedrohte BeachVolleyball-Turnier auf der Nordseeinsel Wangerooge ist gerettet .	433	NONE		Das vom Aus bedrohte BeachVolleyball-Turnier auf der Nordseeinsel Wangerooge	ist	gerettet			
+Der Senat ist einen Klotz am Bein losgeworden .	435	SEP, SVO		Der Senat	ist	einen Klotz am Bein	losgeworden		
+Und weshalb ist das alles so undenkbar ?	450	NONE	Und	weshalb	ist	das alles so undenkbar			
+Sogar Veranstaltungen planen ist kein Problem.	292b	NONE		Sogar Veranstaltungen planen	ist	kein Problem			copular clause
+Warum ist Privatsphäre wichtig und warum sollte die Politik sie beachten?	394B	NONE		Warum	ist	Privatsphäre wichtig			copular clause
+Die ehrliche Formulierung wäre: mir kam es so vor.	81	INV		mir	kam	es so	vor		verb particle in RSK: doesn‘t count as SEP for PT
+Wollte man sie unbedingt erobern, kam Kriegsgerät zum Einsatz.	379	INV		Wollte man sie unbedingt erobern	kam	Kriegsgerät zum Einsatz			
+Er kam näher , um sich die Hände am Feuer zu wärmen.	120a	SVO		Er	kam	näher		um sich die Hände am Feuer zu wärmen	
+Feiern kann man den Tag mit dem Verzehr von Pfannkuchen.	140	OTHER		Feiern	kann	man den Tag mit dem Verzehr von Pfannkuchen			part of verb cluster in VF
+Ihn kann nichts erschüttern, sagt Hans.	191	INV , SEP		Ihn	kann	nichts	erschüttern		
+Kann es sein dass dein Malz sehr schlecht geschrotet wurde.	212	INV			kann	es	sein	dass dein Malz sehr schlecht geschrotet wurde	
+Kann ich auch nur jedem ans Herz legen!	214	SEP			Kann	ich auch nur jedem ans Herz	legen		
+Kann ja mal vorkommen, war aber nichts besonderes.	215	SEP			Kann	ja mal	vorkommen		
+Kann jedenfalls keinen finden.	217	SEP			Kann	jedenfalls keinen	finden		
+Kann sie empfehlen.	218	SEP			Kann	sie	empfehlen		
+Macht man gewisse Information öffentlich zugänglich, kann es sein , dass das ungeahnte Ausmaße annimmt.	231	SEP		Macht man gewisse Infomation öffentlich zugänglich	kann	es	sein	dass das ungeahnte Ausmaße annimmt	
+Umgehungsstraße kann gebaut werden	313	OTHER		Umgehungsstraße	kann		gebaut werden		MF empty, therefore not SEP
+Will er es und kann es nicht, so ist das ein Unvermögen, was dem Wesen Gottes widerspricht.	366	NONE	und		kann	es nicht			Non-local subject
+Will sagen, es kann alles so schnell gehen	370	INV, SEP		es	kann	alles so schnell	gehen		
+Am Feuer kannst du dir die Hände aufwärmen.	17	INV, SEP		Am Feuer	kannst	du dir die  Hände	aufwärmen		
+Die Hände kannst du dir am Feuer aufwärmen.	82	INV, SEP		Die Hände	kannst	du dir am Feuer	aufwärmen		
+Kannst dort direkt bestellen.	219	SEP			Kannst	dort direkt	bestellen		
+Kannst du dir nicht die Hände aufwärmen?	220	SEP			kannst	du dir nicht die Hände	aufwärmen		
+Der Weg, den du jetzt einschlägst, den kenne ich gut.	393B	INV	Der Weg, den du jetzt einschlägst	den	kenne	ich gut			
+Den Karl, kennst du den?	389	OTHER	Den Karl		kennst	du den			not INV, since VF empty
+Jeder auch nur im geringsten an Musik interessierte Schüler kennt die Antwort.	208	SVO		Jeder auch nur im geringsten an Musik interessierte Schüler	kennt	die Antwort			
+Muß leider aufhören, Bello und Cäsar knurren schon.	247	OTHER		Bello und Cäsar	knurren	schon			intransitive
+Komm her!	223	V1-imp			Komm		her		not SEP because MF empty and only a  verb particle in RSK 
+Auf dem Gut von Generalswitwe Anna Petrowna kommen Alt, Mittelalt, Mitteljung und Jung zur Feier einer Hochzeit zusammen.	25	INV		Auf dem Gut von Generalswitwe Anna Petrowna	kommen	Alt, Mittelalt, Mitteljung und Jung zur Feier einer Hochzeit 	zusammen		particle in RSK doesn‘t count for PT , thus not SEP
+Auf der einen Seite kommen und fahren Autos, Busse und Bahnen, auf der anderen starten und landen Flugzeuge	26	NONE		auf der einen Seite	kommen				subject in other conjunct
+Nur die Starken kommen in den Garten .	417	SVO		Nur die Starken	kommen	in den Garten			
+Die Steileisfans kommen bei uns natürlich auch auf ihre Kosten .	437	SVO		Die Steileisfans	kommen	bei uns auf ihre Kosten			
+Hallo Max, kommst du auch morgen?	154	OTHER	Hallo Max		kommst	Du auch morgen			
+Kommst du nicht, so fang ich dich.	224	OTHER			Kommst	du nicht			conditional V1 clause
+HABEN wollen sie alle, aber SEIN, darauf kommt es an!	153	INV		darauf	kommt	es	an		verb particle in RSK: doesn‘t count as SEP for PT
+Im Fußball kommt diese Situation schon hin und wieder vor.	195	INV		Im Fußball	kommt	diese Situation schon hin und wieder	vor		not SEP because only a  verb particle in RSK 
+Kommt Petra heute nicht?	226	OTHER			Kommt	Petra heute  nicht			
+Die Artikel können am Tag vor dem ersten Miettag ab 13.00 Uhr abgeholt werden und müssen am Tag nach dem letzten Miettag bis 13.00 Uhr retourniert werden.	78	SEP		Die Artikel	können	am Tag vor dem ersten Miettag ab 13.00 Uhr	abgeholt werden		
+Trainieren können Sie überall, gesund dabei bleiben Sie bei Claudia Frohberger!	306	OTHER		Trainieren	können	Sie überall			
+Muss man nicht und ich glaube auch man könnte es nicht.	250	SVO		man	könnte	es nicht			
+Sollte dies gelingen , könnte das Virus innerhalb weniger Minuten nachgewiesen werden.	297	INV, SEP		Sollte dies gelingen	könnte	das Virus innerhalb weniger Minuten	nachgewiesen werden		
+Insgesamt 484 von ihnen konnten identifiziert werden , was einem Anteil von 48% aller Kinder entsprach.	196	OTHER		Insgesamt 484 von ihnen	konnten		identifiziert werden		MF empty, therefore not SEP
+Lacht sie oder weint sie?	227	OTHER			Lacht	sie			intransitive
+Auf der einen Seite kommen und fahren Autos, Busse und Bahnen, auf der anderen starten und landen Flugzeuge	29	NONE	und		landen	Flugzeuge			Non-local modifier in left conjunct
+Jetzt lass mich aber in Ruhe!	211	V1-imp		Jetzt	lass	mich aber in Ruhe			
+Verhindern lässt sich das Haus dadurch aber wahrscheinlich nicht.	328	OTHER		Verhindern	lässt	sich das Haus dadurch aber wahrscheinlich nicht			part of verb cluster in VF
+Aber immerhin , wir leben noch.	3	OTHER	Aber immerhin	wir	leben	noch			intransitive
+Aber immerhin leben wir noch.	4	INV	Aber	immerhin	leben	wir noch			
+Die Wüste lebt.	94	OTHER		Die Wüste	lebt				intransitive
+Auch Peter liebt Kuchen.	24	SVO		Auch Peter	liebt	Kuchen			
+Das liegt wohl daran, dass die Fundamente und Bauweisen der Kraftwerke bis 8.25-Skala ausgelegt gewesen sein sollen.	53	SVO		das	liegt	wohl daran		dass die Fundamente und Bauweisen der Kraftwerke bis 8.25-Skala ausgelegt gewesen sein sollen	
+Weiter in Richtung Rheinebene liegt Landau.	349	OTHER		Weiter in Richtung Rheinebene	liegt	Landau			only one post-verbal  element
+Lies die EULA von Windows Vista	446	V1-imp			Lies	die EULA von Windows Vista			
+Mach mal ein bisschen schneller!	230	V1-imp			Mach	mal ein bisschen schneller			
+Macht man gewisse Information öffentlich zugänglich, kann es sein , dass das ungeahnte Ausmaße annimmt.	233	OTHER			Macht	man gewisse Information öffentlich zugänglich			conditional V1 clause
+Radio hören und singen, macht das nicht jeder?	266	OTHER	Radio hören und singen		macht	das nicht jeder			polar question
+Aber macht das nicht jeder?	388	OTHER	Aber		macht	das nicht jeder			VF is empty: not INV
+Maria meinte, dass er den Wagen hat reparieren lassen.	234	OTHER		Maria	meinte			dass er den Wagen hat reparieren lassen	clausal object
+Maria meinte, dass er den Wagen reparieren gelassen hat.	236	OTHER		Maria	meinte			dass er den Wagen reparieren gelassen hat	clausal object
+Sie meinte, dass sie ihn zu vergessen nie versucht hat.	285	OTHER		Sie	meinte			dass sie ihn zu vergessen nie versucht hat	clausal object
+Woran merkt man das?	380	INV		Woran	merkt	Man das			
+Ausgerechnet, möchte man sagen.	30	INV, SEP		Ausgerechnet	möchte	man	sagen		
+Beworben werden muss die Veranstaltung natürlich schon jetzt.	36	NONE		Beworben werden	muss	die Veranstaltung natürlich schon  jetzt			verb cluster moved into VF doesn‘t count as INV 
+Muss man nicht und ich glaube auch man könnte es nicht.	248	NONE			Muss	man nicht			intransitive (for practical purposes)
+Um die Sortierrichtung umzukehren , muss nochmals auf den Sortierbegriff geklickt werden.	311	SEP		Um die Sortierrichtung umzukehren	muss	nochmals auf den Sortierbegriff	geklickt werden		
+Und: nur weil viele Vieles tun, muss es nicht das Richtige sein.	323	INV, SEP		nur weil viele Vieles tun	muss	es nicht das Richtige	sein		
+Wer strafrechtlich Taten verübt hat, muss angezeigt werden.	358	OTHER		Wer strafrechtlich Taten verübt hat	muss		angezeigt werden		MF empty, therefore not SEP
+Muß leider aufhören, Bello und Cäsar knurren schon.	246	SEP			Muß	leider	aufhören		
+Muß nur meinen Scanner auch mal anschreien!	251	SEP			Muß	nur meinen Scanner auch mal 	anschreien		
+Die strafrechtliche Verfolgung, so Harich, müsse aufgehoben werden.	93	OTHER		Die strafrechtliche Verfolgung	müsse		aufgehoben werden		MF empty, therefore not SEP
+Die Artikel können am Tag vor dem ersten Miettag ab 13.00 Uhr abgeholt werden und müssen am Tag nach dem letzten Miettag bis 13.00 Uhr retourniert werden.	79	NONE			müssen	am Tag nach dem letzten Miettag bis 13.00 Uhr	retourniert werden		Non-local subject
+Bremens Lehrer müssen Landeslehrer werden , damit sie problemlos zwischen Bremen und Bremerhaven versetzt werden können .	430	SEP		Bremens Lehrer	müssen	Landeslehrer	werden	damit sie problemlos zwischen Bremen und Bremerhaven versetzt werden können.	
+Wollte eine Frau eine Vorlesung besuchen, musste sie allerdings eine Ausnahmegenehmigung beantragen.	377	INV, SEP		Wollte eine Frau eine Vorlesung besuchen	musste	sie allerdingseine Ausnahmegenehmigung	beantragen		
+Vera war ganz zittrig, nachdem sie jetzt gehört hatte, daß ich hatte beatmet werden müssen.	326	V1-imp			nachdem	sie jetzt	gehört hatte	daß ich hatte beatmet werden müssen	
+Nimm dir einen Schirm mit weil es soll ja noch regnen.	252	V1-imp			Nimm	dir einen Schirm	mit	weil es soll ja noch regnen	
+Egal ob Sie mit dem Auto oder mit öffentlichen Verkehrsmitteln anreisen – unser Landgasthof ist schnell und einfach zu erreichen.	105	VEND			ob	Sie mit dem Auto oder mit öffentlichen Verkehrsmitteln 	anreisen		
+Er fragte, ob ich noch ein Bier trinke und ich dann gehe.	117	VEND			ob	ich noch ein Bier	trinke		
+Ich habe sie doch gefragt, heute , die Kinder, ob wir gemeinsam kochen wollen.	177	VEND			ob	wir gemeinsam	kochen wollen		
+Ob sie ihn wiedererkennen würde?	258	VEND			Ob	sie ihn	wiedererkennen würde		
+Weiß man , ob sie abgereist ist?	347	VEND			ob	sie	abgereist ist		
+Und ob ich komme !	444	VEND	Und		ob	ich	komme		
+Obgleich beide Bewegungen seit 1985 militärisch zusammenarbeiten , um die Zentralmacht in Addis Abeba zu schwächen, gibt es keine Fortschritte.	426	VEND			Obgleich	beide Bewegungen seit 1985 militärisch	zusammenarbeiten	um die Zentralmacht in Addis Abeba zu schwächen	
+Zu kümmern scheint das niemanden, obschon eine Frage im Raum steht: Wie sollen ohne Zuwanderung und Einbürgerung die Alterung und Schrumpfung der Schweizer Bevölkerung gestoppt werden?	383	VEND			obschon	eine Frage im Raum	steht	Wie sollen ohne Zuwanderung und Einbürgerung die Alterung und Schrumpfung der Schweizer Bevölkerung gestoppt werden	
+Denn obwohl Walter bereits seit 2017 bei den Gründungsstadtwerken in Betrieb ist und an Kunden der Wohnungswirtschaft erfolgreich vermarket wird, dauerte die Gründung der Gesellschaft 14 Monate.	65	VEND			obwohl	Walter bereits seit 2017 bei den Gründungsstadtwerken in Betrieb 	ist		
+Obwohl es regnet, wir gehen wandern.	259	VEND			obwohl	es	regnet		
+Seit vielen Jahren plagt den Gründer Köbi Siber die Frage, wie seine Dinos der Nachwelt erhalten bleiben können.	276	INV		Seit vielen Jahren	plagt	den Gründer Köbi Siber die Frage, wie seine Dinos der Nachwelt erhalten bleiben können			
+Erfassen und recherchieren Sie jetzt noch schneller die Nachrichtenlage.	124	V1-imp	und		recherchieren	Sie jetzt noch schneller die Nachrichtenlage			
+Reist er morgen schon ab?	267	OTHER			Reist	er morgen schon	ab		not SEP beause ab is just a verb particle
+Es ritten drei Ritter zum Tor hinaus.	425	INV		Es	ritten	drei Ritter zum Tor	hinaus		verb particle in RSK: doesn‘t count as SEP for PT
+Rockt mit Oliver und Oliver rockt mit euch!	268	V1-imp			Rockt	mit Oliver			
+Rockt mit Oliver und Oliver rockt mit euch!	269	NONE		Oliver	rockt	mit euch			intransitive with modifier
+Nun sag bloß!	254	V1-imp		Nun	sag	bloß			
+Die Polizei sagt, dass er sie hat singen hören.	86	OTHER		Die Polizei	sagt			dass er sie hat singen hören	clausal object
+Die Polizei sagt, dass er sie singen gehört hat.	88	OTHER		Die Polizei	sagt			dass er sie singen gehört hat	SVO with clausal object
+Ihn kann nichts erschüttern, sagt Hans.	192	NONE		Ihn kann nichts erschüttern	sagt	Hans			parenthetical clause
+Er sagte, dass er zu kommen wünsche.	121	OTHER		Er	sagte			dass er zu kommen wünsche	clausal object
+Sie sagte, dass sie ihn hat zu vergessen versucht.	283	OTHER		Sie	sagte			dass sie ihn hat zu vergessen versucht	clausal object
+Der Mond scheint aber man sieht nicht die Hand vor Augen.	69	OTHER		der Mond	scheint				intransitive
+Zu kümmern scheint das niemanden, obschon eine Frage im Raum steht: Wie sollen ohne Zuwanderung und Einbürgerung die Alterung und Schrumpfung der Schweizer Bevölkerung gestoppt werden?	382	INV		zu kümmern	scheint	das niemanden		obschon eine Frage im Raum steht: Wie sollen ohne Zuwanderung und Einbürgerung die Alterung und Schrumpfung der Schweizer Bevölkerung gestoppt werden	
+Bei dem Regen, da schickt man keinen Hund vor die Tür.	31	INV	Bei dem Regen	da	schickt	man keinen Hund vor die Tür			
+Sie schwor, dass sie ihn zu vergessen versucht hat.	287	OTHER		Sie	schwor			dass sie ihn zu vergessen versucht hat	clausal object
+Es sei daran erinnert , dass in den vergangenen Jahren Vizepräsident Mike Pence am Marsch teilgenommen hat.	133	SEP		Es	sei	daran	erinnert	dass in den vergangenen Jahren Vizepräsident Mike Pence am Marsch teilgenommen hat	
+Sinnvoll seien Exit Screenings in von einer Erkrankungswelle besonders betroffenen Gebieten.	289	NONE		Sinnvoll	seien	Exit Screenings in von einer Erkrankungswelle besonders betroffenen Gebieten			copular clause
+Beide seien drogenabhängig	429	NONE		Beide	seien	drogenabhängig			copular clause
+Selbst wenn alle Stricke reißen, so halten wir erst recht zu dir.	277	VEND			Selbst wenn	alle Stricke	reißen		
+Der Mond scheint aber man sieht nicht die Hand vor Augen.	70	SVO	aber	man	sieht	nicht die Hand vor Augen			
+Auch alles weitere was Sie schreiben sind nur unwahre Behauptungen.	22	NONE		Auch alles weitere was Sie schreiben	sind	nur unwahre Behauptungen			
+Dass Perot ein Unternehmen erfolgreich leiten kann, davon sind selbst seine Kritiker überzeugt.	59	INV, SEP	Dass Perot ein Unternehmen erfolgreich leiten kann	davon	sind	selbst seine Kritiker	überzeugt		
+Unsere Preise auf dem Webshop sind identisch mit den Preisen in den Filialen.	324	NONE		Unsere Preise auf dem Webshop	sind	identisch mit den Preisen in den Filialen			copular clause
+Was in Frankreich außerdem fehlt, das sind strengere Kontrollen.	342	NONE	Was in Frankreich außerdem fehlt	das	sind	strengere Kontrollen			copular clause
+Nimm dir einen Schirm mit weil es soll ja noch regnen.	253	SEP	weil	es	soll	ja noch	regnen		
+Wohin soll ich fahren?	372	SEP		Wohin	soll	ich	fahren		
+Sollen wir nun, fuhr jener fort, wenn wir es können, bestimmen, welcherlei diese sind?	293	SEP			sollen	wir nun wenn wir es können	bestimmen	welcherlei diese sind	
+Zu kümmern scheint das niemanden, obschon eine Frage im Raum steht: Wie sollen ohne Zuwanderung und Einbürgerung die Alterung und Schrumpfung der Schweizer Bevölkerung gestoppt werden?	384	INV, SEP		Wie	sollen	ohne Zuwanderung und Einbürgerung die Alterung und Schrumpfung der Schweizer Bevölkerung 	gestoppt werden		
+Sollte dies gelingen , könnte das Virus innerhalb weniger Minuten nachgewiesen werden.	298	SEP			sollte	dies	gelingen		
+Will ein Unternehmen sehr große Exponate ausstellen, was im touristischen Bereich eher selten vorkommt, sollte ein Freigeländestand gewählt werden.	364	SEP		Will ein Unternehmen sehr große Exponate ausstellen, was im touristischen Bereich eher selten vorkommt,	sollte	ein Freigeländestand	gewählt werden		
+Warum ist Privatsphäre wichtig und warum sollte die Politik sie beachten?	394B	SEP	und	warum	sollte	die Politik sie	beachten		
+Alle, die ihr Vermögen vermehren wollen, sollten sich Gedanken machen, welche Methoden für sie dafür am geeignetsten sind.	8	SEP, SVO		Alle, die ihr Vermögen vermehren wollen	sollten	sich Gedanken	machen	welche Methoden für sie dafür am geeignetsten sind	
+Transfette sollten vermieden werden.	308	SEP		Transfette	sollten		vermieden werden		
+Sie sollten sich was schämen	443	INV, SVO		Sie	sollten	sich was	schämen		
+Solltest Du dann auf einmal kalte Füße bekommen, dann gnade Dir Gott.	299	SEP			solltest	du dann auf einmal kalte Füße	bekommen		
+Kaum hatte sie sich umgedreht, stand Merkur vor ihr	222	INV		Kaum hatte sie sich umgedreht	stand	Merkur vor ihr			
+Auf der einen Seite kommen und fahren Autos, Busse und Bahnen, auf der anderen starten und landen Flugzeuge	28	NONE		auf der anderen	starten				
+Was stehst du hier so blöd rum?	343	INV		Was	stehst	du hier so blöd	rum		verb particle in RSK: doesn‘t count as SEP for PT
+An wen man sich wenden soll, steht hier nirgends.	440	SVO		An wen man sich wenden soll	steht	hier nirgends			
+Ist dies sichergestellt, stellt sich die Frage, welcherlei Art die Deckenleuchte sein soll	201	INV		Ist dies sichergestellt	stellt	sich die Frage		welcherlei Art die Deckenleuchte sein soll	
+Mit dem weißen Kandis süßen die Friesen.	242	OTHER		Mit dem weißen Kandis	süßen	die Friesen			only one post-verbal  element
+Tanzt er?	304	OTHER			Tanzt	er			intransitive
+Tanzte er doch nur!	305	V1-excl			Tanzte	er doch nur			
+Wann trat Portugal der EU bei ?	456	INV		Wann	trat	Portugal der EU	bei		particle in RSK doesn‘t count for PT , thus not SEP
+Ich trinke noch ein Bier denn du bestellst ja noch einen Wein.	179	SVO		Ich	trinke	noch ein Bier			
+Ich trinke noch ein Bier und dann gehe ich.	181	SVO		Ich	trinke	noch ein Bier			
+Er kam näher , um sich die Hände am Feuer zu wärmen.	120	NONE			um	sich die Hände am Feuer	zu wärmen		Non-finite
+Um dem Hochwasser zu trotzen, wurden Dämme angelegt.	309	NONE			um	dem Hochwasser zu 	trotzen		Non-finite
+Um die Sortierrichtung umzukehren , muss nochmals auf den Sortierbegriff geklickt werden.	312	NONE			um	die Sortierreichtung	umzukehren		Non-finite
+In einer Kurve umlaufen sie ein Stück der Felswand , bis sie wieder auf den hellen Fels treffen , der ihnen den Blick nach Norden versperrt .	442	INV, SEP		In einer Kurve	umlaufen	sie ein Stück der Felswand	bis sie wieder auf den hellen Fels treffen , der ihnen den Blick nach Norden versperrt		
+Inwiefern unterscheidet sich die Wachstumsrate in North Carolina und in den USA im Schnitt ?	449	INV		Inwiefern	unterscheidet	sich die Wachstumsrate in North Carolina und in den USA im Schnitt			
+Und einen Keks vergebe ich an denjenigen, der mir sagt, welcherart die sterblichen Überreste sind, die in St. Michael - aber nicht in der Gruft - aufbewahrt werden.	316	INV	Und	einen Keks	vergebe	Ich an denjenigen		der mir sagt, welcherart die sterblichen Überreste sind, die in St. Michael - aber nicht in der Gruft - aufbewahrt werden	
+Eine Bildhauerklasse war erst 1862 eingerichtet worden.	111	SEP		Eine Bildhauerklasse	war	Erst 1826	eingerichtet worden		
+Jeder , der es gelesen hat, war tief beeindruckt davon.	206	NONE		Jeder, der es gelesen hat	war	tief	beeindruckt	davon	copular clause
+Kann ja mal vorkommen, war aber nichts besonderes.	216	NONE			war	aber nichts besonderes			copular clause
+Vera war ganz zittrig, nachdem sie jetzt gehört hatte, daß ich hatte beatmet werden müssen.	325	NONE		Vera	war	ganz zittrig		nachdem sie jetzt gehört hatte, daß ich hatte beatmet werden müssen.	copular clause
+Vorausgegangen war eine Weigerung der Indianer, in Reservate umzuziehen.	330	OTHER		Vorausgegangen	war	eine Weigerung der Indianer, in Reservate umzuziehen			part of verb cluster in VF
+Das tolle daran war dass wir bereits früh morgens in Frankfurt los fliegen konnten.	390	NONE		Das tolle daran	war			dass wir bereits früh morgens in Frankfurt los fliegen konnten	copular clause
+Die ehrliche Formulierung wäre: mir kam es so vor.	80	NONE		Die ehrliche Formulierung	wäre			mir kam es so vor	copular clause
+Ihn in Bozen zu treffen, wäre Zufall; in Innsbruck wäre es womöglich noch normal.	189	NONE		Ihn in Bozen zu treffen	wäre	Zufall			copular clause
+Ihn in Bozen zu treffen, wäre Zufall; in Innsbruck wäre es womöglich noch normal.	190	NONE		in Innsbruck	wäre	es womöglich  noch normal			copular clause
+Wann, wenn nicht zur Eröffnungsveranstaltung "175 Jahre Eisenbahn in Deutschland" der DB, wäre für Dr. Grube eine bessere Möglichkeit gewesen, solch eine Veranstaltung zu verkünden.	332	SEP		Wann, wenn nicht zur Eröffnungsveranstaltung "175 Jahre Eisenbahn in Deutschland" der DB	wäre	für Dr. Grube eine bessere Möglichkeit	gewesen	so eine Veranstaltung zu verkünden	
+Wäre sie doch bloß hier geblieben!	334	SEP			Wäre	sie doch bloß hier	geblieben		
+Menschen waren immer schon von allen Dingen fasziniert, die glitzern und glänzen .	240	NONE		Menschen	waren	schon immer von allen Dingen	fasziniert	die glitzern und glänzen	copular clause
+So nass, wie die Böden gerade sind, waren sie in den vergangenen fünf Jahren nicht.	291	NONE		So nass, wie die Böden gerade sind	waren	sie in den vergangenen fünf Jahren nicht			copular clause
+Umso fröhlicher waren wir anschließend, im warmen Zimmer unser indisches Takeout-Essen zu haben	315	NONE		Umso fröhlicher	waren	wir anschließend		?im warmen Zimmer unser indisches Takeout-Essen zu haben	copular clause
+Was für Trottel waren hier am Werk?	340	NONE		Was für Trottel	waren	hier am Werk			copular clause
+Das fällt schon deshalb schwer, weil fast die Hälfte der Bevölkerung unter dem Existenzminimum lebt.	52	VEND			weil	fast die Hälfte der Bevölkerung unter dem Existenzminimum	lebt		
+Ich habe Hans ausgewechselt,  weil er heute nicht so gut spielt wie Tom.	173	VEND			weil	er  heute nicht so gut	spielt	wie Tom	
+Und: nur weil viele Vieles tun, muss es nicht das Richtige sein.	322	VEND			weil	Viele Vieles	tun		
+Lacht sie oder weint sie?	228	OTHER	oder		weint	sie			intransitive
+Ich weiß nicht, wer das gesagt hat.	184	OTHER		Ich	weiß	nicht		wer das gesagt hat	clausal object
+Jeder, der auch nur das geringste Interesse an Musik hat, weiß das.	210	SVO		Jeder, der auch nur das geringste Interesse an Musik hat	weiß	das			
+Weiß man , ob sie abgereist ist?	348	OTHER			Weiß	man		ob sie abgereist ist	
+Weiß der Teufel , warum das so ist .	427	OTHER			Weiß	der Teufel		warum das so ist.	
+Wogegen wendet sich diese Gruppe?	371	INV		Wogegen	wendet	sich diese Gruppe			
+Die Schadenfreude ist dann umso größer, wenn trotz der Anstrengungen ein Würfel über das Ziel hinausschießt oder das Ergebnis drei Einser zeigt.	92	VEND			wenn	trotz der Anstrengungen ein Würfel über das Ziel 	hinausschießt		
+Sollen wir nun, fuhr jener fort, wenn wir es können, bestimmen, welcherlei diese sind?	295	VEND			wenn	wir es	können		
+Weg bekommt man sie nur, wenn man zuvor ihre Ursachen beseitigt hat	344b	VEND			wenn	man zuvor ihre Ursachen	beseitigt hat		
+Allein mehr für Antibiotika zu bezahlen, wie Karl Lauterbach es plane, werde nicht zu mehr Produktion im Inland führen.	12	SEP		Allein mehr für Antibiotika zu bezahlen, wie Karl Lauterbach es plane	werde	nicht zu mehr Produktion im Inland	führen		
+Beziehungsgeflechte werden sich offenbaren oder zerbrechen und neue Strukturen und Ordnungen entstehen	37	SEP		Beziehungsgeflechte	werden	sich	offenbaren		
+Damit schnell geholfen werden kann , werden häufig Defibrillatoren angeschafft.	43	INV, SEP		Damit schnell geholfen werden kann	werden	häufig Defibrillatoren	angeschafft		
+Die Hoffenheimer werden Herbstmeister.	83	NONE		Die Hoffenheimer	werden	Herbstmeister			copular clause
+Doch im Hafen werden auch heute noch Schiffe be - und entladen.	96	SEP	Doch	im Hafen	werden	auch heute noch Schiffe 	be-		assumption: fragment be- is treated as verbal
+Welcherart Daten bzw. Datenanalysen werden verkauft und an wen?	351	OTHER		Welcherart Daten bzw. Datenanalysen	werden		verkauft		MF empty, therefore not SEP
+Haben will für Oesterreich und Schweiz!	151	NONE		Haben	will	fuer Oesterreich und Schweiz!!!!!!!!!!! 			part of verb cluster in VF; no subject, no object
+Nun, da klar sei, dass diese Verluste mache, will der Bund die Verluste zur Hälfte auf die Länder verlagern.	255	INV, SEP		Nun, da klar sei, dass diese Verluste mache	will	der Bund die Verluste zur Hälfte auf die Länder	verlagern		
+Will ein Unternehmen sehr große Exponate ausstellen, was im touristischen Bereich eher selten vorkommt, sollte ein Freigeländestand gewählt werden.	362	SEP			will	ein Unternehmen sehr große Exponate 	ausstellen		conditional V1 clause
+Will er es und kann es nicht, so ist das ein Unvermögen, was dem Wesen Gottes widerspricht.	365	OTHER			Will	er es			conditional V1 clause
+Will sagen, es kann alles so schnell gehen	369	OTHER			will		sagen	es kann alles so schnell gehen	MF empty, therefore not SEP
+Abgesehen von ein paar Autofahrten wird auf Außenaufnahmen fast ganz verzichtet.	5	SEP		Abgesehen von ein paar Autofahrten	wird	auf Außenaufnahmen fast ganz	verzichtet		
+Egal, wer neuer Präsident wird, die Lira wird fallen.	107	OTHER	Egal wer neuer Präsident wird	die Lira	wird		fallen		empty MF
+Es wird klar: das Solidaritätskomitee SB ist ein Opfer-Verein.	134	NONE		Es	wird	klar		das Solidaritätskomitee SB ist ein Opfer-Verein	copular clause
+Geben wird sie ihm das Buch wohl nicht mehr.	143	OTHER		Geben	wird	sie ihm das Buch wohl nicht mehr			part of verb cluster in VF
+Gefeiert und demonstriert wird für die Rechte dieser Gruppen sowie gegen Diskriminierung und Ausgrenzung.	144	OTHER		Gefeiert	wird	für die Rechte dieser Gruppen sowie gegen Diskriminierung und Ausgrenzung			part of verb cluster in VF
+Gefeiert und demonstriert wird für die Rechte dieser Gruppen sowie gegen Diskriminierung und Ausgrenzung.	145	OTHER		Gefeiert und demonstriert	wird	für die Rechte dieser Gruppen sowie gegen Diskriminierung und Ausgrenzung			part of verb cluster in VF, no subject
+Gesucht wird eine nur mit ihrem Entscheidungsnamen bekannte Entscheidung.	150	OTHER		Gesucht	wird	eine nur mit ihrem Entscheidungsnamen bekannte Entscheidung			part of verb cluster in VF
+Je öfter man lügt, desto mehr wird es zur Gewohnheit.	205	NONE		Je öfter man lügt	wird	es zur Gewohnheit			copular clause
+Mit welcherlei Maß ihr messet, wird man euch wieder messen.	244	INV, SEP		Mit welcherlei Maß ihr messet	wird	man euch wieder	messen		
+Produziert wird in Tschechien und längst auch in Deutschland.	262	OTHER		Produziert	wird	in Tschechien und längst auch in Deutschland			part of verb cluster in VF , no subject
+Schenken wird er Ihnen den Hund nicht dürfen.	270	SEP		Schenken	wird	er Ihnen den Hund nicht	dürfen		
+Stürzen wird mit modernen Supersportlern ja fast schon unmöglich.	302	NONE		Stürzen	wird	mit modernen Supersportlern ja fast schon unmöglich			copular clause
+Seinen Tee mit dem weißen Kandis süßen wird nur ein Friese.	387	OTHER		Seinen Tee mit dem weißen Kandis süßen	wird	nur ein Friese			part of verb cluster in VF
+Wir wissen, warum wir hier sind und warum wir tun, was wir tun.	395	OTHER		Wir	wissen			warum wir hier sind und warum wir tun , was wir tun	clausal object
+HABEN wollen sie alle, aber SEIN, darauf kommt es an!	152	OTHER		HABEN	wollen	sie alle			part of verb cluster in VF
+Wollen sie mit solchen Songs Juli-Fans bekehren? 	373	SEP			Wollen	sie mit solchen Songs Juli-Fans	bekehren		
+Wollt ihr etwas zu trinken? 	374	OTHER			Wollt	ihr etwas zu trinken			
+Wollte eine Frau eine Vorlesung besuchen, musste sie allerdings eine Ausnahmegenehmigung beantragen.	376	SEP			Wollte	eine Frau eine Vorlesung	besuchen		conditional V1 clause
+Wollte man sie unbedingt erobern, kam Kriegsgerät zum Einsatz.	378	SEP			Wollte	man sie	erobern		conditional V1 clause
+Es wundert mich nicht, dass er sie gesehen haben will.	136	OTHER		Es	wundert	mich nicht		dass er sie gesehen haben will	clausal subject
+Es wundert mich nicht, dass er sie will gesehen haben.	138	OTHER		Es	wundert	mich nicht		dass er sie will gesehen haben	clausal subject
+Galaxy Buds Live, so heisst es im Angebot, würde man dazu erhalten.	142	INV, SEP		Galaxy Buds Live	würde	man dazu	erhalten		
+Was diesen Kater betrifft, ich würde den impfen lassen.	339	SEP	Was diesen Kater betrifft	ich	würde	den	impfen lassen		not INV since no subject is realized
+Um dem Hochwasser zu trotzen, wurden Dämme angelegt.	310	INV, SEP		Um dem Hochwasser zu trotzen	wurden	Dämme	angelegt		
+Ach würden die Bayern nur schlecht spielen !	447	V1-excl, SEP	Ach		würden	die Bayern nur schlecht	spielen		
+Ich wusste nicht, dass sie den Wagen hat reparieren lassen.	186	OTHER		Ich	wusste	nicht		dass sie den Wagen hat reparieren lassen	clausal object
+Ich wusste nicht, dass er mich heute um 12 Uhr abholt.	185A	OTHER		Ich	wusste	nicht		dass er mich heute um 12 Uhr abholt	clausal object
+Dass er nicht zu Hause sein würde, wußten alle.	58	OTHER		Dass er nicht zu Hause sein würde	wußten	alle			only the S follows the finite verb so not INV
+Seltsamerweise unbemerkt von den Wachen ging er direkt zu dem Porträt hinter dem Tribunal, goß Kerosin darüber und zündete es an.	281	NONE	und		zündete	es	an		Non-local subject
+Alle, die ihr Vermögen vermehren wollen, sollten sich Gedanken machen, welche Methoden für sie dafür am geeignetsten sind.	7	VEND		die		ihr Vermögen	vermehren wollen		
+Alle, die ihr Vermögen vermehren wollen, sollten sich Gedanken machen, welche Methoden für sie dafür am geeignetsten sind.	9	VEND		welche Methoden		dafür am geeignetsten	sind		
+Allein mehr für Antibiotika zu bezahlen, wie Karl Lauterbach es plane, werde nicht zu mehr Produktion im Inland führen.	10	NONE				allein mehr für Antibiotika	zu bezahlen		Non-finite
+Allein mehr für Antibiotika zu bezahlen, wie Karl Lauterbach es plane, werde nicht zu mehr Produktion im Inland führen.	11	VEND		wie		Karl Lauterbach es	plane		
+Als seine Nachkommen haben wir uns vorgenommen es weiter mit Leben zu füllen.	14	NONE				es weiter mit Leben	Zu füllen		Non-finite
+Anklicken und direkt in Google Earth öffnen.	20	NONE					Anclicken		Non-finite
+Anklicken und direkt in Google Earth öffnen.	21	NONE				direkt in Google Earth	öffnen		Non-finite
+Auch alles weitere was Sie schreiben sind nur unwahre Behauptungen.	23	VEND		was		Sie	schreiben		
+Bevor sie überwältigt werden können, gelingt es ihnen, die Sicherheitsschaltung A-1 auf unbekannte Weise zu manipulieren.	35	NONE				die Sicherheitsschaltung A-1 auf unbekannte Weise	zu manipulieren		Non-finite
+Dann hat da noch gespielt die Cellistin, die letztes Jahr alle Nachwuchspreise gewonnen hat.	45	VEND		die		letztes Jahr alle Nachwuchspreise	gewonnen hat		
+Darfst aber auch nicht vergessen, dass Essen 3 x so groß wie Saarbrücken ist und das Land NRW 17 x so viele Einwohner wie das Saarland hat.	49	NONE	und			das Land NRW 17 x so viele Einwohner wie das Saarland	hat		right coordinate, no local complementizer
+Dem Vorstand bereitet es sichtlich Mühe, die Gewinne halbwegs zu verstecken.	64	NONE				die Gewinne halbwegs	zu verstecken		Non-finite
+Denn obwohl Walter bereits seit 2017 bei den Gründungsstadtwerken in Betrieb ist und an Kunden der Wohnungswirtschaft erfolgreich vermarket wird, dauerte die Gründung der Gesellschaft 14 Monate.	66	NONE	und			an Kunden der Wohnungswirtschaft erfolgreich	vermarket wird		complementizer not local
+Die Linguistin, deren viele Bücher da drüben stehen, ist sehr berühmt.	84	VEND		deren viele Bücher		da drüben	stehen		
+Die Schadenfreude ist dann umso größer, wenn trotz der Anstrengungen ein Würfel über das Ziel hinausschießt oder das Ergebnis drei Einser zeigt.	91	NONE				das Ergebnis drei Einser	zeigt		complementizer not local
+Doch im Hafen werden auch heute noch Schiffe be - und entladen.	97	NONE	und				entladen		Non-local subject
+Ebenso bekommt der Konsument sein Fett ab, den er zum Schnäppchenjäger, mithin zum Konsumidioten degeneriert sieht.	103	VEND		den		er zum Schnäppchenjäger, mithin zum Konsumidioten degeneriert	sieht		
+Egal, wer neuer Präsident wird, die Lira wird fallen.	108	VEND		wer		neuer Präsident	wird		
+Einmal noch Rom sehen.	112	NONE				einmal noch Rom	sehen		Non-finite
+Er begann sich die Hände am Feuer zu wärmen.	114	NONE				sich die Hände am Feuer	zu wärmen		
+Er fragte, ob ich noch ein Bier trinke und ich dann gehe.	118	NONE	und			ich dann	gehe		complementizer not local
+Erkrankungen, die mit der Akupunktur behandelt werden können	125	VEND		die		mit der Akupunktur	behandelt werden können		
+Erstellt am 16. November 2018.	126	NONE					Erstellt	am 16. Novemeber 2018.	Non-finite
+Es ist wirklich schwer zu sagen, welche Positionen er einnimmt.	132	VEND		welche Position		er	einnimmt		
+Herausnehmen und abkühlen lassen.	161	VEND					Herausnehmen		
+Herausnehmen und abkühlen lassen.	162	VEND					abkühlen lassen		
+Ich frage mich, wer da immer klopft.	168	VEND		wer		da immer	klopft		
+Ich habe gebeten, bleiben zu dürfen.	172	NONE					bleiben zu dürfen		Non-finite
+Ich weiß nicht, wer das gesagt hat.	183	VEND		wer		das	gesagt hat		
+Ihn in Bozen zu treffen, wäre Zufall; in Innsbruck wäre es womöglich noch normal.	188	NONE				ihn in Bozen	zu treffen		Non-finite
+Ihn unterstützt zu haben hat sein Vater nie bereut.	193	NONE				ihn	unterstützt zu haben		Non-finite
+Insgesamt 484 von ihnen konnten identifiziert werden , was einem Anteil von 48% aller Kinder entsprach.	197	VEND		was		einem Anteil von 48% aller Kinder 	entsprach		
+Ist dies sichergestellt, stellt sich die Frage, welcherlei Art die Deckenleuchte sein soll	202	VEND		welcherlei Art		die Deckenleuchte	sein soll		
+Je öfter man lügt, desto mehr wird es zur Gewohnheit.	204	VEND		je öfter		man	lügt		
+Jeder , der es gelesen hat, war tief beeindruckt davon.	207	VEND		der		es	gelesen hat		
+Jeder, der auch nur das geringste Interesse an Musik hat, weiß das.	209	VEND		der		auch nur das geringste Interesse an Musik	hat		
+Menschen waren immer schon von allen Dingen fasziniert, die glitzern und glänzen .	238	VEND		die			glitzern		
+Menschen waren immer schon von allen Dingen fasziniert, die glitzern und glänzen .	239	NONE					glänzen		Non-finite
+Mit welcherlei Maß ihr messet, wird man euch wieder messen.	243	VEND		Mit welcherlei  Maß		ihr	messet		
+Radfahrer aufpassen!	263	NONE				Radfahrer	aufpassen		Non-finite
+Radio hören und singen, macht das nicht jeder?	264	NONE				Radio	hören		Non-finite
+Radio hören und singen, macht das nicht jeder?	265	NONE	und				singen		Non-finite
+Sein Vater hat es nie bereut, ihn unterstützt zu haben.	272	NONE				ihn	unterstützt zu haben		Non-finite
+Seinen Tee mit dem weißen Kandis süßen wird nur ein Friese.	273	NONE				seinen Tee mit dem weißen Kandis	süßen		Non-finite
+So nass, wie die Böden gerade sind, waren sie in den vergangenen fünf Jahren nicht.	290	VEND		wie		die Böden gerade	sind		
+Sogar Veranstaltungen planen ist kein Problem.	292	NONE				Veranstaltungen	planen		Non-finite
+Sollen wir nun, fuhr jener fort, wenn wir es können, bestimmen, welcherlei diese sind?	296	VEND		welcherlei		diese	sind		
+Und einen Keks vergebe ich an denjenigen, der mir sagt, welcherart die sterblichen Überreste sind, die in St. Michael - aber nicht in der Gruft - aufbewahrt werden.	317	VEND		der		mir	sagt	welcherart die sterblichen Überreste sind, die in St. Michael - aber nicht in der Gruft - aufbewahrt werden	
+Und einen Keks vergebe ich an denjenigen, der mir sagt, welcherart die sterblichen Überreste sind, die in St. Michael - aber nicht in der Gruft - aufbewahrt werden.	318	VEND		welcherart		die sterblichen Überreste	sind	die in St. Michael - aber nicht in der Gruft - aufbewahrt werden	
+Und einen Keks vergebe ich an denjenigen, der mir sagt, welcherart die sterblichen Überreste sind, die in St. Michael - aber nicht in der Gruft - aufbewahrt werden.	319	VEND		die		in St. Michael – aber nicht in der Gruft - 	Aufbewahrt werden		
+Vorausgegangen war eine Weigerung der Indianer, in Reservate umzuziehen.	329	NONE				in Reservate	umzuziehen		Non-finite
+Wann, wenn nicht zur Eröffnungsveranstaltung "175 Jahre Eisenbahn in Deutschland" der DB, wäre für Dr. Grube eine bessere Möglichkeit gewesen, solch eine Veranstaltung zu verkünden.	333	NONE				solch eine Veranstaltung	zu verkünden		Non-finite
+Warum sich lange ärgern?	337	NONE		Warum		sich lange	ärgern		Non-finite
+Was diesen Kater betrifft, ich würde den impfen lassen.	338	VEND		Was		diesen Kater	betrifft		
+Was in Frankreich außerdem fehlt, das sind strengere Kontrollen.	341	VEND		Was		in Frankreich außerdem	fehlt		
+Wer das wohl war?	352	NONE		Wer		das wohl	war		copular clause
+Wer mehr Klicks bekommt – gewinnt.	355	VEND		wer		mehr Klicks	bekommt		
+Wer strafrechtlich Taten verübt hat, muss angezeigt werden.	357	VEND		Wer		strafrechtlich Taten	verübt hat		
+Wie groß du schon bist!	359	VEND		Wie groß		Du schon	bist		
+Wieder so ein Trend, der kommt und auch wieder geht?	360	VEND		der			kommt		
+Wieder so ein Trend, der kommt und auch wieder geht?	361	NONE	und			auch wieder	geht		Non-local subject
+Will ein Unternehmen sehr große Exponate ausstellen, was im touristischen Bereich eher selten vorkommt, sollte ein Freigeländestand gewählt werden.	363	VEND		was		im touristischen Bereich eher selten 	vorkommt		
+Will er es und kann es nicht, so ist das ein Unvermögen, was dem Wesen Gottes widerspricht.	368	VEND		was		dem Wesen Gottes	widerspricht		
+Wollt ihr etwas zu trinken? 	375	NONE				etwas	zu trinken		Non-finite
+Zu kümmern scheint das niemanden, obschon eine Frage im Raum steht: Wie sollen ohne Zuwanderung und Einbürgerung die Alterung und Schrumpfung der Schweizer Bevölkerung gestoppt werden?	381	NONE					zu kümmern		Non-finite
+Zuhören!	385	NONE					Zuhören		Non-finite
+Der Weg, den du jetzt einschlägst, den kenne ich gut.	393	VEND		den		du jetzt	einschlägst		
+Alle hier raus!	419	NONE							Verb-less
+Entscheidung durch Elfmeeter	420	NONE							Verb-less
+Nie wieder!	422	NONE							Verb-less
+Noch mal 20 sein!	423	NONE				Noch mal 20	sein		Non-finite
+Heute frische Waffeln	424	NONE							Verb-less
+Es ist schwer vorherzusagen , was als nächstes kommen wird .	438	VEND		was		als nächstes	kommen wird		
+An wen man sich wenden soll, steht hier nirgends.	439	VEND		an wen		man sich	wenden soll		
+Was diese Frau nicht alles erlebt hat !	445	VEND	Was			diese Frau nicht alles	erlebt hat		
+Dagegen gab er ihnen ein Heilmittel ins Rotweinglas, worauf sie gleich einschlafen	448	VEND		worauf		sie gleich	einschlafen		
+Seit vielen Jahren plagt den Gründer Köbi Siber die Frage, wie seine Dinos der Nachwelt erhalten bleiben können.	276B	VEND		wie		seine Dinor der Nachwelt	erhalten bleiben können		
+Weg ist alles, was du liebtest, Weg, worum du dich betrübtest.	346B	VEND		worum		du dich	betrübtest		
+Weg ist alles, was du liebtest, Weg, worum du dich betrübtest.	346C	VEND		was		du	liebtest		
+Wir wissen, warum wir hier sind und warum wir tun, was wir tun.	395B	VEND		warum		wir hier	sind		
+Wir wissen, warum wir hier sind und warum wir tun, was wir tun.	395C	VEND	und	warum		wir	tun	was wir tun	
+Wir wissen, warum wir hier sind und warum wir tun, was wir tun.	395D	VEND		was		wir	tun		
+Darf ich fragen wie du heißt?	46b	VEND		wie		du	heißt		
